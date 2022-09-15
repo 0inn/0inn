@@ -2,9 +2,6 @@
 
 # ʏᴏᴜɴɢɪɴ ᴋɪᴍ
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyi1220)](https://solved.ac/kyi1220)
-
 </div>
 
 <br>
@@ -40,6 +37,13 @@
 <br>
 
 𝟸𝟶𝟸𝟸.𝟶𝟽 ~ **|** [HealthFoodMe - 샐러드부터 일반식까지! 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱 🥗](https://github.com/Health-Food-Me/Health-Food-Me-iOS)
+
+<br>
+
+### PS
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyi1220)](https://solved.ac/kyi1220)
 
 <br>
 
