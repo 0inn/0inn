@@ -15,7 +15,7 @@
 ### Skills
 
 ![Swift](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 <br>
 
@@ -42,6 +42,6 @@
 
 ### Contact
 
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0inn)
+[![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://0inn.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0inn1220@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/0._inn)
