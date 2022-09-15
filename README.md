@@ -2,6 +2,9 @@
 
 # ʏᴏᴜɴɢɪɴ ᴋɪᴍ
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kyi1220)](https://solved.ac/kyi1220)
+
 </div>
 
 <br>
