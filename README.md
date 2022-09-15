@@ -31,7 +31,7 @@
 
 <br>
 
-### Project
+### Projects
 
 𝟸𝟶𝟸𝟸.𝟶𝟺 ~ 𝟸𝟶𝟸𝟸.𝟶𝟼 **|** [우아함 - 부모, 자녀, 교사가 하나로 연결되어 서로의 정보를 주고 받는 서비스 🧒🏻](https://github.com/0inn/Wooaham)
 <br>
