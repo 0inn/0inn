@@ -33,9 +33,9 @@
 
 ### Projects
 
-𝟸𝟶𝟸𝟸.𝟶𝟺 ~ 𝟸𝟶𝟸𝟸.𝟶𝟼 **|** [우아함 - 부모, 자녀, 교사가 하나로 연결되어 서로의 정보를 주고 받는 서비스 🧒🏻](https://github.com/0inn/Wooaham)
+<!--- 𝟸𝟶𝟸𝟸.𝟶𝟺 ~ 𝟸𝟶𝟸𝟸.𝟶𝟼 **|** [우아함 - 부모, 자녀, 교사가 하나로 연결되어 서로의 정보를 주고 받는 서비스 🧒🏻](https://github.com/0inn/Wooaham)
 <br>
-
+--->
 𝟸𝟶𝟸𝟸.𝟶𝟽 ~ **|** [HealthFoodMe - 샐러드부터 일반식까지! 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱 🥗](https://github.com/Health-Food-Me/Health-Food-Me-iOS)
 
 <br>
