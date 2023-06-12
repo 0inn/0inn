@@ -33,9 +33,14 @@
 <!--- 𝟸𝟶𝟸𝟸.𝟶𝟺 ~ 𝟸𝟶𝟸𝟸.𝟶𝟼 **|** [우아함 - 부모, 자녀, 교사가 하나로 연결되어 서로의 정보를 주고 받는 서비스 🧒🏻](https://github.com/0inn/Wooaham)
 <br>
 --->
-- 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱, 헬푸미  ([github](https://github.com/Health-Food-Me/Health-Food-Me-iOS) / [appstore](https://apps.apple.com/kr/app/%ED%97%AC%ED%91%B8%EB%AF%B8/id1632788399))
-- 글사진을 저장하고 공유하는 프라이빗한 저장소, fimo ([github](https://github.com/Nexters-PIMO/FIMO_iOS))
+**2023**
+
 - SOPT 동아리 공식 어플리케이션, SOPT ([github](https://github.com/sopt-makers/SOPT-iOS) / [appstore](https://apps.apple.com/kr/app/sopt/id6444594319))
+- 글사진을 저장하고 공유하는 프라이빗한 저장소, fimo ([github](https://github.com/Nexters-PIMO/FIMO_iOS))
+
+**2022**
+
+- 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱, 헬푸미  ([github](https://github.com/Health-Food-Me/Health-Food-Me-iOS) / [appstore](https://apps.apple.com/kr/app/%ED%97%AC%ED%91%B8%EB%AF%B8/id1632788399))
 
 <br>
 
