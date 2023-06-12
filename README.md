@@ -10,26 +10,21 @@
 
 ### Education
 
-𝟸𝟶𝟷𝟾.𝟶𝟹 ~ **|** ɪɴʜᴀ ᴜɴɪᴠ. - ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ ᴇɴɢɪɴɴᴇʀɪɴɢ
+ɪɴʜᴀ ᴜɴɪᴠ. - ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ ᴇɴɢɪɴɴᴇʀɪɴɢ
 
 <br>
 
-### Skills
+### Experience
 
-![Swift](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+**2023**
 
-<br>
+- SOPT Makers 2기 iOS 챕터
+- NEXTERS 22기 iOS 파트
+- 카로 iOS 개발 인턴
 
-### Tools
+**2022**
 
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-009688?style=flat-square&logo=Figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+- SOPT 31기 iOS 파트
 
 <br>
 
@@ -38,7 +33,16 @@
 <!--- 𝟸𝟶𝟸𝟸.𝟶𝟺 ~ 𝟸𝟶𝟸𝟸.𝟶𝟼 **|** [우아함 - 부모, 자녀, 교사가 하나로 연결되어 서로의 정보를 주고 받는 서비스 🧒🏻](https://github.com/0inn/Wooaham)
 <br>
 --->
-𝟸𝟶𝟸𝟸.𝟶𝟽 ~ **|** [HealthFoodMe - 샐러드부터 일반식까지! 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱 🥗](https://github.com/Health-Food-Me/Health-Food-Me-iOS)
+- 다이어터들의 외식 걱정을 줄여주는 다이어트 식당 지도 앱, 헬푸미  ([github](https://github.com/Health-Food-Me/Health-Food-Me-iOS) / [appstore](https://apps.apple.com/kr/app/%ED%97%AC%ED%91%B8%EB%AF%B8/id1632788399))
+- 글사진을 저장하고 공유하는 프라이빗한 저장소, fimo ([github](https://github.com/Nexters-PIMO/FIMO_iOS))
+- SOPT 동아리 공식 어플리케이션, SOPT ([github](https://github.com/sopt-makers/SOPT-iOS) / [appstore](https://apps.apple.com/kr/app/sopt/id6444594319))
+
+<br>
+
+### Skills
+
+![Swift](https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 <br>
 
@@ -53,4 +57,3 @@
 
 [![Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://0inn.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:0inn1220@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/0._inn)
