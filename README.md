@@ -18,8 +18,8 @@
 
 **2023**
 
-- SOPT Makers 2기 iOS 챕터
-- NEXTERS 22기 iOS 파트
+- SOPT Makers 2기, 3기 iOS 챕터
+- NEXTERS 22기, 23기 iOS 파트
 - 카로 iOS 개발 인턴
 
 **2022**
